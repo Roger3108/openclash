@@ -4,4 +4,6 @@ DOMAIN-KEYWORD,zoom
 # 域名后缀匹配
 DOMAIN-SUFFIX,zoom.us
 
+DOMAIN-SUFFIX,qichiyu.com
+
 DOMAIN-KEYWORD,britishcouncil
