@@ -1,0 +1,6 @@
+# 内容：我需要直连的域名
+# 域名关键字匹配DOMAIN-KEYWORD,openai
+# 域名后缀匹配DOMAIN-SUFFIX,openai.com
+# 域名匹配DOMAIN,chat.openai.com
+
+DOMAIN-KEYWORD,bilibili
