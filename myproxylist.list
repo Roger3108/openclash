@@ -1,7 +1,8 @@
 # 内容：我需要代理的域名
-# 域名关键字匹配DOMAIN-KEYWORD,openai
-# 域名后缀匹配DOMAIN-SUFFIX,openai.com
-# 域名匹配DOMAIN,chat.openai.com
+# 域名关键字匹配 DOMAIN-KEYWORD,openai
+# 域名后缀匹配 DOMAIN-SUFFIX,openai.com
+# 域名匹配 DOMAIN,chat.openai.com
+# 匹配数据发起IP SRC-IP-CIDR,192.168.1.201/32
 
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,v2rayssr.com
