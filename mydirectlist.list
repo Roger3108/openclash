@@ -5,3 +5,4 @@
 # 匹配数据发起IP SRC-IP-CIDR,192.168.1.201/32
 
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,jdlimg
